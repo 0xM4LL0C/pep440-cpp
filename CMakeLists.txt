@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(pypkgm LANGUAGES CXX)
+project(pep440 LANGUAGES CXX)
 
 option(BUILD_TESTS "Build tests" OFF)
 
