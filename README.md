@@ -83,7 +83,7 @@ Alternatively, you can use [CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) t
 `pep440-cpp` directly into your project:
 
 ```cmake
-CPMAddPackage("gh:0xM4LL0C/pep440-cpp@0.1.0")
+CPMAddPackage("gh:0xM4LL0C/pep440-cpp#0.1.0")
 target_link_libraries(your_target PRIVATE pep440)
 ```
 
